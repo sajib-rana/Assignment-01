@@ -36,6 +36,7 @@ body{
 }
 .middle-heading{
     text-align: center;
+    font-size: 60px;
 }
 .Middle-point{
     display: flex;

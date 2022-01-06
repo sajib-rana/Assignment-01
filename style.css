@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.mission{
+    color: rgb(241, 166, 25);
+}
+.first-portion{
+    display: flex;
+    height: 600px;
+    align-items: center;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.heading{
+    border-left: 2px solid orange;
+    padding-left: 10px;
+}
+.photo{
+    width: 70%;
+}
+.top-button{
+ text-decoration: none;
+ padding: 10px 30px;
+ background-color: rgb(231, 123, 80);
+ border-radius: 5px;
+ color: white;
+ font-weight: 700;
+}
+.middle-heading{
+    text-align: center;
+}
+.Middle-point{
+    display: flex;
+    height: 300px;
+}
+.divission1{
+    width: 40%;
+    margin-left: 5%;
+    
+    padding: 15px;
+    background-color: #f0ffff;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.divission2{
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 15px;
+    background-color: #ffebcd;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.divission3{
+    width: 40%;
+    
+    margin-right: 5%;
+    padding: 15px;
+    background-color: #fffacd;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.divission1 img{
+    width: 30%;
+}
+.divission2 img{
+    width: 30%;
+}
+.divission3 img{
+    width: 30%;
+}
+.coding-style{
+    display: flex;
+
+}
+.image-banner{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    
+}
+.footer-section{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.932);
+    text-align: center;
+    padding: 10px;
+}
+.year{
+    color: firebrick;
+}
+.font{
+    font-size: 10px;
+}
+.coding-photo{
+    text-align: center;
+}
